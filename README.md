@@ -1,8 +1,5 @@
-# Moneikoikoi
-
 ![Alt text](/img/Best3_mini.png "画像")
-
-マネーコイコイの閃き一千万
+# マネーコイコイの閃き一千万
 
 [![マネーコイコイの閃き一千万](/img/YouTube_bunner.png "マネーコイコイの閃き一千万")](https://youtube.com/@moneykoikoi)
 [視る](https://youtube.com/@moneykoikoi)
