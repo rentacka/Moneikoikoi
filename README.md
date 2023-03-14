@@ -1,4 +1,4 @@
-![Alt text](/img/Best3_mini.png "画像")
+[![マネーコイコイ](/img/Best3_mini.png "Twitterへ")](https://twitter.com/moneykoikoi)
 # マネーコイコイの閃き一千万
 
 [![マネーコイコイの閃き一千万](/img/YouTube_bunner.png "マネーコイコイの閃き一千万")](https://youtube.com/@moneykoikoi)
