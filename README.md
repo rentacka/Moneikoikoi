@@ -6,7 +6,7 @@
 
 [Youtubeで視る](https://youtube.com/@moneykoikoi)
 
-![Alt text](/img/YouTube_bunner.webp "画像")
+![Alt text](/img/YouTube_bunner.png "画像")
 
 
 [カクヨムで読む](https://kakuyomu.jp/users/moneykoikoi)
