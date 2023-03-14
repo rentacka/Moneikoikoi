@@ -1,6 +1,6 @@
 # Moneikoikoi
 
-![Alt text](/img/Best3.jpg "画像")
+![Alt text](/img/Best3_mini.png "画像")
 
 マネーコイコイの閃き一千万
 
