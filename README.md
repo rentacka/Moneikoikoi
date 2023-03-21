@@ -14,3 +14,5 @@
 
 
 プロンプトソフト：[ChatGPTで２０時間かかる小説の感想作業を３０分で書きますｂ](https://github.com/rentacka/koikoi/blob/main/ChatGPT%E3%81%A7%EF%BC%92%EF%BC%90%E6%99%82%E9%96%93%E3%81%8B%E3%81%8B%E3%82%8B%E5%B0%8F%E8%AA%AC%E3%81%AE%E6%84%9F%E6%83%B3%E4%BD%9C%E6%A5%AD%E3%82%92%EF%BC%93%EF%BC%90%E5%88%86%E3%81%A7%E6%9B%B8%E3%81%8D%E3%81%BE%E3%81%99%EF%BD%82.md)
+.Net Framework4.8版：[２０時間かかる小説の感想作業を３０分で書きますｂ](https://github.com/rentacka/-AI
+)
